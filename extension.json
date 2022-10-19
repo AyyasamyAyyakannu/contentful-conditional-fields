@@ -1,0 +1,6 @@
+{
+  "id": "contentful-conditional-fields",
+  "name": "Contentful Conditional Fields",
+  "srcdoc": "./build/index.html",
+  "sidebar": true
+}
